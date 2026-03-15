@@ -1,0 +1,9 @@
+package-as: Click-To-Cast-Button
+ignore:
+  - .vscode
+  - build
+  - .github
+  - .gitignore
+  - .gitattributes
+  - pkgmeta.yml
+  - README.md
