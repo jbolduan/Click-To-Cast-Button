@@ -1,4 +1,4 @@
-# ClickToCastButton
+# Click-To-Cast-Button
 
 A World of Warcraft addon that adds a convenient button to the spellbook window for quick access to click-to-cast bindings.
 
@@ -12,7 +12,7 @@ A World of Warcraft addon that adds a convenient button to the spellbook window 
 
 1. Download the addon files
 2. Extract to your World of Warcraft addons folder:
-   - `World of Warcraft\_retail_\Interface\AddOns\ClickToCastButton`
+   - `World of Warcraft\_retail_\Interface\AddOns\Click-To-Cast-Button`
 3. Restart WoW or reload your UI with `/reload`
 
 ## Usage

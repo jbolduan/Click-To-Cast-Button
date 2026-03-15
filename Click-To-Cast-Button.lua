@@ -1,4 +1,4 @@
--- ClickToCastButton
+-- Click-To-Cast-Button
 -- Adds a button to the spellbook to open click-to-cast bindings
 
 local addonName, addon = ...

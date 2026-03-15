@@ -1,4 +1,4 @@
-# Copilot Instructions for ClickToCastButton
+# Copilot Instructions for Click-To-Cast-Button
 
 ## Build and Deploy
 
@@ -18,8 +18,8 @@ This is a World of Warcraft addon that adds a convenient button to the spellbook
 
 ## Key Files
 
-- `ClickToCastButton.lua` - Main addon code
-- `ClickToCastButton.toc` - Addon metadata/manifest
+- `Click-To-Cast-Button.lua` - Main addon code
+- `Click-To-Cast-Button.toc` - Addon metadata/manifest
 - `README.md` - User documentation
 - `build\deploy.ps1` - Deployment script (DO NOT AUTO-EXECUTE)
 - `.github\copilot-instructions.md` - This file (Copilot workspace instructions)
