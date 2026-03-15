@@ -1,0 +1,12 @@
+## Interface: 120001
+## Title: ClickToCastButton
+## Notes: Adds a button to the spellbook to open click-to-cast bindings
+## Author: Your Name
+## Version: 1.0.0
+## IconTexture: Interface\Icons\Spell_Holy_Heal
+## X-Website: https://github.com/jbolduan/Click-To-Cast-Button
+## X-Curse-Project-ID: 1487079
+## X-Wago-ID: 96d28EGO
+## DefaultState: Enabled
+
+ClickToCastButton.lua
